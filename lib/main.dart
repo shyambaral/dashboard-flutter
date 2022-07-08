@@ -24,6 +24,7 @@ class Dashboard extends StatelessWidget {
                 children: <Widget>[
                   Icon(Icons.menu, color: Colors.white,size: 52.0,),
                   Image.asset("images/ram.jpg",width: 52.0,)
+                  Image.asset("images/ram.jpg",width: 52.0),
                 ],
               ),
             ),
