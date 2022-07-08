@@ -40,6 +40,9 @@ class Dashboard extends StatelessWidget {
                   Image.asset("images/ram.jpg",width: 52.0,)
                   Image.asset("images/ram.jpg",width: 52.0,)
                   Image.asset("images/ram.jpg",width: 52.0,)
+                  Image.asset("images/ram.jpg",width: 52.0,)
+                  Image.asset("images/ram.jpg",width: 52.0,)
+                  Image.asset("images/ram.jpg",width: 52.0,)
                 ],
               ),
             ),
